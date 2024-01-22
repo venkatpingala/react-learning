@@ -1,0 +1,22 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "This Venkat Pingala learning React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatpingala/react-learning.git"
+  },
+  "author": "Venkat Pingala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatpingala/react-learning/issues"
+  },
+  "homepage": "https://github.com/venkatpingala/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
